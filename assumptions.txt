@@ -1,2 +1,8 @@
 Assumptions : 
 
+Project start. Time 6:01pm 3/12/2019.
+Imported the maven project 'dev-assessment' into Eclipse which I forked from https://github.com/mattlucian/dev-assessment
+Immediately Eclipse reports that the project is configured by default to be compiled with J2SE-1.5, but I do not have a runtime installed on my machine that is compatible with that version. My oldest JRE version is 1.8, so I am updating the project to be compiled using J2SE-1.8. First commit to repository.
+
+Time 6:06pm 3/12/2019 - Ran formatting wizard in Eclipse to set curly braces and whitespace according to my preferences. Files affected: Main.java, Product.java, ProductCsvUtil.java, ProductJsonUtil.java, ProductXmlUtil.java. Second commit to repository.
+
