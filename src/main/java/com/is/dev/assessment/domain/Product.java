@@ -1,8 +1,6 @@
 package com.is.dev.assessment.domain;
 
-
-public class Product {
-
-
-
+public class Product
+{
+    //
 }
